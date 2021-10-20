@@ -16,21 +16,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <TextView
-            android:id="@+id/tv_online"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text="Online"
-            android:textSize="30dp" />
-        <TextView
-            android:id="@+id/tv_lastSeen"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text="Last seen on:"
-           />
-
         <Button
             android:id="@+id/btn_buttonCounter"
             android:layout_width="match_parent"
@@ -51,5 +36,33 @@
             android:layout_height="wrap_content"
             android:layout_margin="20dp"
             android:text="ArrayList Activity" />
+
+        <Button
+            android:id="@+id/btn_ActivityLifecycle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Activity Lifecycle" />
+
+        <Button
+            android:id="@+id/btn_simpleCalculator"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Simple Calculator" />
+
+        <Button
+            android:id="@+id/btn_imageViews"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Image Views" />
+
+        <Button
+            android:id="@+id/btn_recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="Recycler View" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

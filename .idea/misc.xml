@@ -5,8 +5,14 @@
       <map>
         <entry key="app/src/main/res/layout/activity_array_list.xml" value="0.24479166666666666" />
         <entry key="app/src/main/res/layout/activity_button_counter.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/activity_image_views.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/activity_life_cycle.xml" value="0.23072916666666668" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.23072916666666668" />
         <entry key="app/src/main/res/layout/activity_persistent_calculation.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/activity_recycler_view.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/activity_recycler_view_content.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/activity_simple_calculator.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/row_item.xml" value="0.24479166666666666" />
       </map>
     </option>
   </component>
